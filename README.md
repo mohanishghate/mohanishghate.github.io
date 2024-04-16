@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohanish-ghate/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/banner.png" alt="My banner">
+    <img src="https://raw.githubusercontent.com/mohanishghate/mohanishghate.github.io/main/images/banner.png" alt="My banner">
   </a>
 </p>
 
